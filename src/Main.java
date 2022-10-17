@@ -5,6 +5,8 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Unesite broj n: ");
         n = scanner.nextInt();
+        int a = 0;
+        String s = "Ilhan";
 
     }
 }
